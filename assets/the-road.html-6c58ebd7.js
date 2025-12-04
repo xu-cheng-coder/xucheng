@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5e979015","path":"/blogs/extracts/2025/the-road.html","title":"《平凡之路》","lang":"en-US","frontmatter":{"title":"《平凡之路》","date":"2025-11-18T00:00:00.000Z","tags":["poem"],"categories":["摘记"]},"headers":[],"git":{},"filePathRelative":"blogs/extracts/2025/the-road.md"}');export{t as data};

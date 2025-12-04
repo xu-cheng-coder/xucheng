@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app-45e1adad.js";const _={},s=o("p",null,"大三下，我进入了实习，开始了我的职业生涯。在这四个月里，我经历了许多事情，也学到了很多。",-1),n=[s];function a(r,l){return t(),c("div",null,n)}const m=e(_,[["render",a],["__file","time.html.vue"]]);export{m as default};

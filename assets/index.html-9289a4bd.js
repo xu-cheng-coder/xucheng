@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./app-45e1adad.js";const c={},n=s("p",null,"��#� �H�e�l�l�o� �V�u�e�P�r�e�s�s� � �",-1),_=[n];function l(r,a){return t(),o("div",null,_)}const i=e(c,[["render",l],["__file","index.html.vue"]]);export{i as default};

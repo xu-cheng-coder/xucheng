@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b78b903","path":"/blogs/extracts/2025/myblog.html","title":"为什么要创建这个博客","lang":"en-US","frontmatter":{"title":"为什么要创建这个博客","date":"2025-11-18T00:00:00.000Z","tags":["poem"],"categories":["摘记"]},"headers":[],"git":{},"filePathRelative":"blogs/extracts/2025/myblog.md"}');export{t as data};

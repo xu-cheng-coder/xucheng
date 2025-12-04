@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e95de636","path":"/blogs/essay/2023/time.html","title":"时间怎么过得这么快","lang":"en-US","frontmatter":{"title":"时间怎么过得这么快","date":"2025-11-27T00:00:00.000Z","tags":["thinking"],"categories":["随笔"],"next":"/blogs/essay/2023/how-to-live","prev":false},"headers":[],"git":{},"filePathRelative":"blogs/essay/2023/time.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as _,a as e}from"./app-45e1adad.js";const s={},n=e("p",null,"1.记录前端学习与实习中的技术要点、问题解决方案",-1),c=e("p",null,"2.复盘项目实践，沉淀组件封装、兼容性处理等实操经验",-1),l=e("p",null,"3.打造个人技术知识库，方便后续查阅与求职参考",-1),a=e("p",null,"4.以实习生视角分享笔记，与同阶段开发者交流",-1),r=[n,c,l,a];function d(i,u){return t(),_("div",null,r)}const m=o(s,[["render",d],["__file","myblog.html.vue"]]);export{m as default};
